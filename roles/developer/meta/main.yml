@@ -18,4 +18,3 @@ dependencies:
   #- roderik.superlumic-sublimetext
   #- roderik.superlumic-node
   - roderik.superlumic-vim
-  - profile-all
